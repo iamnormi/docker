@@ -1,0 +1,8 @@
+# docker pull image_name #!To pull and existing Image from docker hub or other repos by default docker hub.
+# docker run -p 5000:5000 image_name #!To run the pulled image to run an existing image.
+# docker images #!To list all the existing images in local system
+# docker ps #!To get all the list images currently running
+# docker stop image_name OR ContainerID  #!To stop the running image process
+# 
+
+
