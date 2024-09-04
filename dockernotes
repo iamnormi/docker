@@ -3,6 +3,3 @@
 # docker images #!To list all the existing images in local system
 # docker ps #!To get all the list images currently running
 # docker stop image_name OR ContainerID  #!To stop the running image process
-# 
-
-
